@@ -1,6 +1,6 @@
 <div align=center>
   <img src="Logo.png" alt="Logo" width=200>
-  <h2>Welcome to Cloud Computing @ Northwest Tech!</h2>
+  <h2>Welcome to Cloud Computing @ Fort Hays Tech | Northwest!</h2>
   <p>
     Goodland, Kansas ·
     <a href="https://nwktc.edu">https://nwktc.edu</a>
